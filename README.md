@@ -12,7 +12,7 @@ Link to the paper:
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4428667 
 
 Group Number:
-0
+3
 
 Individual Submitter:
 23166023 Name: Rafa Siddiqua
